@@ -1,0 +1,34 @@
+#Welcome {
+	background: yellow;
+	color: green; 
+	font-size: 50px;
+}
+#tagline {
+	color: orange;
+	font-weight: bold;
+}
+
+/* navbar */
+.navbar-default {
+    border-color: #E7E7E7;
+}
+
+#navcolor{
+	background-color: red;
+}
+
+h1{
+	color: red;
+	font-size: 50px;
+}
+h2,h3, h4{
+	color: violet;
+	font-size: 50px;
+}
+
+.redcolor{
+	color:red;
+}
+.bluecolor{ 
+	color:blue; 
+}
